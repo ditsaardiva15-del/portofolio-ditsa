@@ -108,7 +108,7 @@ export default function Hero() {
                 </svg>
               </button>
               <a
-                href="/Ahmad_Rizki_Hartawan_CV.pdf"
+                href="/DitsaArdiva_CV.pdf"
                 download
                 className="cursor-pointer text-sm md:text-base font-bold border-2 border-text-secondary/20 hover:border-text-primary text-text-primary px-8 py-4 rounded-xl flex flex-row items-center justify-center gap-3 hover:-translate-y-1.5 hover:scale-[1.02] hover:bg-thirdary/40 transition-all duration-300 ease-out bg-background/50 backdrop-blur-sm shadow-[0_4px_10px_rgb(0,0,0,0.03)] dark:shadow-[0_4px_10px_rgba(255,255,255,0.02)]"
               >
