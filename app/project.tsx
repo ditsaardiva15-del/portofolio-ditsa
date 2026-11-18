@@ -275,7 +275,7 @@ const projectList = [
     features: ["Pemesanan Travel Mudah", "Pilihan Armada Lengkap", "Bilingual (ID / EN)", "Booking via WhatsApp"],
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
     githubUrl: "https://github.com/ditsaardiva15-del",
-    liveUrl: "https://hanantrans.com",
+    liveDemoUrl: "https://hanantrans.com",
     isPrivateRepo: true,
   },
   {
@@ -287,7 +287,7 @@ const projectList = [
     features: ["Informasi Produk & Layanan", "Pemesanan via WhatsApp", "Galeri Portofolio", "Responsive Design"],
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
     githubUrl: "https://github.com/ditsaardiva15-del",
-    liveUrl: "https://chyoulinekonveksi.com",
+    livDemoUrl: "https://chyoulinekonveksi.com",
     isPrivateRepo: true,
   },
   {
@@ -299,7 +299,7 @@ const projectList = [
     features: ["Interactive Animations", "Responsive Design", "Modern UI/UX", "AI Chat Assistant"],
     tech: ["Next.js", "Tailwind CSS", "TypeScript"],
     githubUrl: "https://github.com/ditsaardiva15/portofoliov2",
-    liveDemoUrl: "https://ryhar.my.id",
+    liveDemoUrl: "https://portofolio-ditsa.vercel.app",
     isPrivateRepo: false,
   },
 ]
