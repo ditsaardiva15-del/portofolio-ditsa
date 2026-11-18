@@ -287,7 +287,7 @@ const projectList = [
     features: ["Informasi Produk & Layanan", "Pemesanan via WhatsApp", "Galeri Portofolio", "Responsive Design"],
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
     githubUrl: "https://github.com/ditsaardiva15-del",
-    livDemoUrl: "https://chyoulinekonveksi.com",
+    liveDemoUrl: "https://chyoulinekonveksi.com",
     isPrivateRepo: true,
   },
   {
